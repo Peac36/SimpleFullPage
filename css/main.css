@@ -3,8 +3,8 @@ html { margin: 0;padding: 0; }
 
 .section { display: block; }
 
-.section-blue { background-color: blue; }
+.section-blue { background: url(../images/bg1.jpg) no-repeat ;-webkit-background-size: cover; background-size: cover; }
 
-.section-green { background-color: green; }
+.section-green { background: url(../images/bg2.jpg) no-repeat ;-webkit-background-size: cover; background-size: cover; }
 
-.section-red { background-color: red; }
+.section-red { background: url(../images/bg3.jpg) no-repeat ;-webkit-background-size: cover; background-size: cover; }
